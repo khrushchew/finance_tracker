@@ -1,3 +1,6 @@
+.pg_service.conf
+.my_pgpass
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
